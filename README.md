@@ -22,7 +22,7 @@ Este projeto visa analisar a relação entre o número de empresas do setor imob
 
 1️⃣ Clone o repositório:
 ```bash
- git clone https://github.com/seu-usuario/mercado-imobiliario.git
+ git clone https://github.com/Erykash/perfil-consumidor-construcao.git
 ```
 2️⃣ Instale as dependências:
 ```bash
@@ -30,7 +30,7 @@ Este projeto visa analisar a relação entre o número de empresas do setor imob
 ```
 3️⃣ Execute o script de análise:
 ```bash
- python programacao.py
+ Mercado Imobiliário.py
 ```
 
 ## 📌 Conclusões
